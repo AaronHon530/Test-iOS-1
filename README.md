@@ -28,12 +28,12 @@ Connect UI and code in `ViewController.swift` with following requirements:
 7. Change C button to AC when C button is clicked
 8. Discard all previous data (by AC button) and change back to C button
 
-### Task 4
+### Task 4   (Elective 1)
 Add at least 2 test case for each of the following test.
 1. Unit test for testing Calculator class
 2. UI test for testing UI flow
 
-### Task 5
+### Task 5   (Elective 1)
 1. Install fastlane
 2. Implement lane `unit_test` to trigger unit test of Task 4
 3. Implement lane `ui_test` to trigger ui test of Task 4
