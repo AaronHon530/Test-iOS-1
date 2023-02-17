@@ -13,6 +13,8 @@ Clone this repository and work on the following tasks. The tasks are not arrange
 1. Add 3 buttons (+, =, C) to the keyboard view in `Main.storyboard`.
 2. Add Layout Constraints for the buttons.
 
+Hint: I did explicitly make tutorial about layout constriant, but in the tableView tutorial, what did I do when the textfield is not wide enough??
+
 ### Task 2
 1. Create a file named `Calculator.swift`.
 2. Write a Calculator class which handles `Int` result by using protocol `Addable` & `Clearable` provided. The class should have a variable called result with suitable initial value. When `add()` is called, the input value is added to result. When `clear()` is called, the result is reset.
