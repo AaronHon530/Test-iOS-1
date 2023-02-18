@@ -1,7 +1,8 @@
 # USThing Recruitment Test 1 - iOS
 
 ## Introduction :information_source: 
-In this test, you are required to create a calculator app on iOS! :tada: :iphone:
+In the core part, you are required to create a calculator app on iOS! :tada: :iphone:
+
 
 You are allowed to find help online by searching related material. 
 
